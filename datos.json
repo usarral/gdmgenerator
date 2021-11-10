@@ -1,15 +1,16 @@
 {
-    "FECHA": "SABADO 6 DE NOVIEMBRE DE 2021",
-    "juvenil_hora": "20:00",
-    "juvenil_local": "GURPEA BETI-ONAK B",
-    "juvenil_visitante": "GDM LA MERCED",
-    "juvenil_campo":"POLIDEPORTIVO MUNICIPAL HNOS. INDURAIN (VILLAVA)",
-    "cadete_hora":"11:00",
-    "cadete_local": "GDM LA MERCED A",
-    "cadete_visitante": "UHARTE A",
-    "cadete_campo":"POLIDEPORTIVO MIGUEL INDURAIN (CORELLA)",
+    "FECHA": "SABADO 13 DE NOVIEMBRE DE 2021",
+    "juvenil_jornada": "24",
+    "juvenil_hora": "18:00",
+    "juvenil_local": "GDM LA MERCED",
+    "juvenil_visitante": "BAZTANGO KIROL TALDEA",
+    "juvenil_campo":"POLIDEPORTIVO MIGUEL INDURAIN (CORELLA)",
+    "cadete_hora":"12:15",
+    "cadete_local": "CDB ATALAYA",
+    "cadete_visitante": "GDM LA MERCED",
+    "cadete_campo":"COMPLEJO DEPORTIVO LAS LUCHAS (PERALTA)",
     "alevin_hora":"11:00",
-    "alevin_local":"HELVETIA ANAITASUNA C",
-    "alevin_visitante":"GDM LA MERCED",
-    "alevin_campo":"PISTA AZUL ANAITASUNA (PAMPLONA)"
+    "alevin_local":"GDM LA MERCED",
+    "alevin_visitante":"VALLE DE EGÜÉS ALEVÍN MASCULINO",
+    "alevin_campo":"POLIDEPORTIVO CIUDAD DE CORELLA (CORELLA)"
 }

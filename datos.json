@@ -1,16 +1,22 @@
 {
-    "FECHA": "SABADO 20 DE NOVIEMBRE DE 2021",
-    "juvenil_jornada": "11",
-    "juvenil_hora": "17:00",
-    "juvenil_local": "LAGUNAK",
-    "juvenil_visitante": "G.D.M LA MERCED",
-    "juvenil_campo":"POLIDEPORTIVO SOCIEDAD LAGUNAK (BARAÑAIN)",
-    "cadete_hora":"",
-    "cadete_local": "",
-    "cadete_visitante": "",
-    "cadete_campo":"DESCANSA",
-    "alevin_hora":"",
-    "alevin_local":"",
-    "alevin_visitante":"",
-    "alevin_campo":"DESCANSA"
+    "FECHA": "SABADO 18 DE DICIEMBRE DE 2021",
+
+    "juvenil_hora": "16:00",
+    "juvenil_local": "BM LIZARRERIA",
+    "juvenil_visitante": "GDM LA MERCED",
+    "juvenil_campo": "CARPA ONCINEDA IDZA(ESTELLA)",
+
+    "cadete_hora": "10:30",
+    "cadete_local": "UHARTE A",
+    "cadete_visitante": "GDM LA MERCED A",
+    "cadete_campo": "POLIDEPORTIVO UGARRANDIA(UHARTE)",
+
+    "alevin_hora": "10:00",
+    "alevin_local": "CANTOLAGUA",
+    "alevin_visitante": "GDM LA MERCED",
+    "alevin_campo": "FRONTON CANTOLAGUA(SANGÜESA)",
+
+    "juvenil_url": "https://www.rfebm.com/competiciones/competicion.php?seleccion=0&id_categoria=200011&id_competicion=202747&id_temp=2122&id_ambito=0&id_territorial=31&",
+    "juvenil_jornada": "14"
+
 }

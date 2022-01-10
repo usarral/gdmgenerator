@@ -1,20 +1,20 @@
 {
-    "FECHA": "SABADO 18 DE DICIEMBRE DE 2021",
+    "FECHA": "SABADO 15 DE ENERO DE 2022",
 
     "juvenil_hora": "16:00",
-    "juvenil_local": "BM LIZARRERIA",
-    "juvenil_visitante": "GDM LA MERCED",
-    "juvenil_campo": "CARPA ONCINEDA IDZA(ESTELLA)",
+    "juvenil_local": "GDM LA MERCED",
+    "juvenil_visitante": "HELVETIA ANAITASUNA",
+    "juvenil_campo": "POLIDEPORTIVO MIGUEL INDURAIN(CORELLA)",
 
-    "cadete_hora": "10:30",
-    "cadete_local": "UHARTE A",
-    "cadete_visitante": "GDM LA MERCED A",
-    "cadete_campo": "POLIDEPORTIVO UGARRANDIA(UHARTE)",
+    "cadete_hora": "11:00",
+    "cadete_local": "GDM LA MERCED A",
+    "cadete_visitante": "CDB ATALAYA",
+    "cadete_campo": "POLIDEPORTIVO MIGUEL INDURAIN(CORELLA)",
 
-    "alevin_hora": "10:00",
-    "alevin_local": "CANTOLAGUA",
+    "alevin_hora": "11:00",
+    "alevin_local": "HELVETIA ANAITASUNA C",
     "alevin_visitante": "GDM LA MERCED",
-    "alevin_campo": "FRONTON CANTOLAGUA(SANGÜESA)",
+    "alevin_campo": "PISTA AZUL ANAITASUNA(PAMPLONA)",
 
     "juvenil_url": "https://www.rfebm.com/competiciones/competicion.php?seleccion=0&id_categoria=200011&id_competicion=202747&id_temp=2122&id_ambito=0&id_territorial=31&",
     "juvenil_jornada": "14"
